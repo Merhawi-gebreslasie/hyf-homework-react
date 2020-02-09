@@ -1,0 +1,65 @@
+
+
+
+
+.App {
+  text-align: center;
+  background:gainsboro;
+  margin:0 500px;
+     border:5px solid yellow ;
+     
+  
+}
+.header{
+  font-size: 4rem;
+  font-weight:bolder;
+  margin: 15px;
+  color:rgb(14, 223, 223);
+  border:5px solid rgb(248, 124, 22);
+}
+.add{
+  
+  margin: 15px;
+  padding: 0%;
+  border:5px solid blue;
+  background:gray;
+}
+
+.add input{
+  width:50%;
+  padding: 20px;
+  font-size: 30px;
+  
+  
+}
+.add button{
+  width:20%;
+  padding: 20px;
+  font-size: 30px;
+  margin-right: 0%;
+
+}
+.lists{
+  margin:15px;
+  border:5px solid palegreen;
+}
+
+.items{
+  margin:15px;
+background: rgb(255, 204, 156);
+  font-weight: bold;
+font-size: 2rem;
+  border:5px solid purple;
+}  
+/* 
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+} */
+ 
