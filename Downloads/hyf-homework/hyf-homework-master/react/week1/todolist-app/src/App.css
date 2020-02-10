@@ -1,0 +1,24 @@
+.App {
+  padding: 3px;
+  margin:40px 400px;
+  text-align: center;
+  border:5px solid yellow;
+}
+
+.header {
+  background-color: #282c34;  
+  margin :5px;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  border:5px solid blue;
+}
+.lists{
+  background-color: cornsilk;
+  border:5px solid green;
+  margin:5px;
+}
+.items{
+  border:5px solid red;
+  margin:5px;
+
+}
